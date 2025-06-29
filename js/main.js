@@ -227,7 +227,7 @@
 			$.ajax({      	
 
 		      type: "POST",
-		      url: "send-mail.php",
+		      url: "https://wpdemo.great-site.net/send-mail.php",
 		      data: $(form).serialize(),
 		      beforeSend: function() { 
 
