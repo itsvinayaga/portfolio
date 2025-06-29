@@ -2355,7 +2355,7 @@ header .logo a {
 	border-color: #0a66c2;
 	color: #FFFFFF;
 }
-#contact button.submitform {
+#contact button.submit {
 	font-size: 1.5rem;
 	display: block;
 	letter-spacing: .2rem;
@@ -2367,7 +2367,7 @@ header .logo a {
 	background: #0a66c2;
 	color: #FFFFFF;
 }
-#contact button.submitform:hover, #contact button.submitform:focus {
+#contact button.submit:hover, #contact button.submit:focus {
 	background: #0a66c2;
 }
 #message-warning, #message-success {
