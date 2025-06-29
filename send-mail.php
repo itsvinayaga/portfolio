@@ -1,13 +1,6 @@
 <?php
 // Enable error reporting (for testing)
-// Allow requests from anywhere (or replace * with your GitHub Pages domain)
-header("Access-Control-Allow-Origin: *");
 
-// Allow specific methods if needed
-header("Access-Control-Allow-Methods: POST, GET, OPTIONS");
-
-// Allow custom headers
-header("Access-Control-Allow-Headers: Content-Type, Authorization");
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
